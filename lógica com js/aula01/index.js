@@ -12,3 +12,7 @@
 */
 
 console.log(10 > 5) // true
+console.log('a' < 'b')// false
+console.log("3" + "2") // 32
+console.log(true && true)// true
+console.log(false || true)// true
